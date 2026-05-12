@@ -1,0 +1,24 @@
+Final,ClusterID,Blue,DICE,HPCA,Mona,Nover
+T cell,0,CD8+ Tcm,"T cells, CD4+, Th1",T_cell:CD4+_central_memory,Th1 cells,CD8+ Central Memory
+Monocytes,1,Monocytes,"Monocytes, CD14+",Monocyte:CD16-,Classical monocytes,Monocytes
+Monocytes,10,Monocytes,"Monocytes, CD14+",Monocyte:CD16-,Myeloid dendritic cells,Monocytes
+Fibroblast,11,Fibroblasts,"Monocytes, CD14+",Tissue_stem_cells:BM_MSC:TGFb3,Myeloid dendritic cells,Hematopoietic stem cells_CD38- CD34+
+Myofibroblast,12,Fibroblasts,"Monocytes, CD14+",Tissue_stem_cells:BM_MSC:BMP2,Myeloid dendritic cells,Hematopoietic stem cells_CD38- CD34+
+Dendritic cell,13,DC,"Monocytes, CD14+",DC:monocyte-derived:mature,Myeloid dendritic cells,Myeloid Dendritic Cells
+Monocytes,14,Monocytes,"Monocytes, CD14+",Monocyte:CD16-,Classical monocytes,Monocytes
+Macrophage,15,Macrophages,"Monocytes, CD14+",Macrophage:monocyte-derived:M-CSF,Myeloid dendritic cells,Monocytes
+Megakaryocyte,16,Monocytes,"Monocytes, CD14+",HSC_-G-CSF,Intermediate monocytes,CD8+ Effector Memory RA
+Plasmacytoid dendritic cell,17,Monocytes,"Monocytes, CD14+",NK_cell,Plasmacytoid dendritic cells,Plasmacytoid Dendritic Cells
+MKI67+ progenitor cell,18,CD8+ Tcm,NK cells,T_cell:gamma-delta,Natural killer cells,CD8+ Effector Memory RA
+Basal cell,19,Epithelial cells,"Monocytes, CD14+",Keratinocytes:IFNg,Intermediate monocytes,Hematopoietic stem cells_CD38- CD34+
+NK cell,2,NK cells,NK cells,NK_cell,Non-Vd2 gd T cells,CD8+ Effector Memory RA
+Mast cell,20,MEP,NK cells,CMP,Progenitor cells,Hematopoietic stem cells_CD133+ CD34dim
+Megakaryocyte,21,CD8+ Tcm,"T cells, CD4+, memory TREG",T_cell:CD4+_effector_memory,Vd2 gd T cells,CD8+ Effector Memory
+T cell,22,CD4+ Tem,"T cells, CD4+, Th1",T_cell:CD4+_central_memory,Vd2 gd T cells,CD4+ Effector Memory
+B cell,3,naive B-cells,"B cells, naive",B_cell:Naive,Exhausted B cells,Naive B cells
+Monocytes,4,Monocytes,"Monocytes, CD14+",Monocyte:CD16-,Classical monocytes,Monocytes
+keratinocyte,5,Epithelial cells,"Monocytes, CD14+",Keratinocytes:IL22,Intermediate monocytes,CD8+ Central Memory
+Basal cell,6,Epithelial cells,"Monocytes, CD14+",Keratinocytes:IFNg,Myeloid dendritic cells,CD4+ Central Memory
+Megakaryocyte,7,CD4+ Tem,NK cells,T_cell:CD4+_effector_memory,Vd2 gd T cells,CD8+ Central Memory
+Macrophage,8,Monocytes,"Monocytes, CD16+",Monocyte:CD16+,Intermediate monocytes,Monocytes
+Endothelial cell,9,mv Endothelial cells,"Monocytes, CD14+",Endothelial_cells:lymphatic:TNFa_48h,Myeloid dendritic cells,Hematopoietic stem cells_CD38- CD34+

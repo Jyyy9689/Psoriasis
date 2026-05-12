@@ -1,0 +1,22 @@
+Final,ClusterID
+Neutrophil,0
+Monocyte:CD16-,1
+B cell,10
+Macrophages,11
+Monocyte:CD16-,12
+Natural killer (NK) cell,13
+Plasmacytoid dendritic cell,14
+Monocyte:CD16-,15
+Dendritic cell,16
+Plasma cell,17
+Dendritic cell,18
+Mast cell,19
+Natural killer (NK) cell,2
+Plasmacytoid dendritic cell,20
+Monocyte:CD16+,3
+Natural killer T (NKT) cell,4
+Monocyte:CD16-,5
+Natural killer (NK) cell,6
+Monocyte:CD16-,7
+Dendritic cell,8
+Dendritic cell,9

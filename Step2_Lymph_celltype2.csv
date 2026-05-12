@@ -1,0 +1,19 @@
+Final,ClusterID
+CD4+ T cell,0
+Naive CD4+ T cell,1
+Natural killer (NK) cell,10
+B cell,11
+Regulatory T (Treg) cell,12
+Natural killer (NK) cell,13
+Neutrophil,14
+Neutrophil,15
+Exhausted CD8+ T cell,16
+Natural killer T (NKT) cell,17
+Natural killer (NK) cell,2
+Natural killer T (NKT) cell,3
+Neutrophil,4
+Natural killer T (NKT) cell,5
+B cell,6
+Naive CD8+ T cell,7
+Natural killer T (NKT) cell,8
+B cell,9
